@@ -1,0 +1,9 @@
+site_name: Renata Beroli
+site_url: https://renataberoli.github.io/
+nav:
+  - Dockgrid: 'projects/dockgrid.md'
+  - Neobiome BIM: 'projects/neobiome.md'
+  - Microbiome Reports: 'projects/reports.md'
+
+theme:
+  name: material
