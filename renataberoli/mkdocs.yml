@@ -4,6 +4,7 @@ nav:
   - Dockgrid: 'projects/dockgrid.md'
   - Neobiome BIM: 'projects/neobiome.md'
   - Microbiome Reports: 'projects/reports.md'
+  - Test Cases: 'projects/test_case.md'
 
 theme:
   name: material
