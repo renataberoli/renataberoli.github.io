@@ -19,41 +19,41 @@
 
 Those Test Cases bellow were executed and automatized in my GitHub --> [Unittest - GitHub API](https://github.com/renataberoli/Unittest_Python)
 
-### ReposNameTC
+### test_repository_search_by_name
 | Description | Test Data | Expected Result | 
 | ----------- | --------- | --------------- | 
-| This test aims to confirm that the GitHub Search API returns just the result that matches the repository's name searched. | The keyword "Python" is in the name. | The GitHub API returns a list of repositories with the specific name that was searched. |
+| This test aims to confirm that the GitHub Search API returns just the result that matches the repository's name searched. | Use: Keyword "Python"; Qualifier "in:name". | The GitHub API returns a list of repositories with the specific name that was searched. |
 **Comments:** N/A
 
 ----
 
-### ReposDescriptionTC
+### test_repository_search_by_description
 | Description | Test Data | Expected Result | 
 | ----------- | --------- | --------------- | 
-| This test aims to confirm that Github Search API returns the repositories that have in the description the keyword searched. | The keyword "Python" is in the description. | The GitHub API returns one or more repositories that have the word “Python” in your description. | 
+| This test aims to confirm that Github Search API returns the repositories that have in the description the keyword searched. | Use: Keyword "Python"; Qualifier "in:description". | The GitHub API returns one or more repositories that have the word “Python” in your description. | 
 **Comments:** N/A
 
 ----
 
-### ReposReadmeTC
+### test_repository_search_by_readme
 | Description | Test Data | Expected Result | 
 | ----------- | --------- | --------------- | 
-| This test aims to confirm that GitHub Search API returns the repositories that have in the readme the keyword searched. | The keyword “Cadmio” is in the readme. | The GitHub API returns one or more repositories with the word “Cadmio” in your readme. |
+| This test aims to confirm that GitHub Search API returns the repositories that have in the readme the keyword searched. | Use: Keyword "Cadmio"; Qualifier "in:readme". | The GitHub API returns one or more repositories with the word “Cadmio” in your readme. |
 **Comments:** N/A
 
 ----
 
-### ReposOwnerTC
+### test_repository_search_by_owner_name
 | Description | Test Data | Expected Result | 
 | ----------- | --------- | --------------- | 
-| This test aims to confirm that GitHub Search API returns just the repository of the specific patch. | The repository path “renataberoli/renataberoli.github.io”. | The GitHub API returns only the specific repository searched. |
+| This test aims to confirm that GitHub Search API returns just the repository of the specific patch. | Use: owner/name "renataberoli/renataberoli.github.io"; Qualifier "repo:owner/name". | The GitHub API returns only the specific repository searched. |
 **Comments:** N/A
 
 ----
 
-### ReposUserTC
+### test_repository_search_by_user
 | Description | Test Data | Expected Result | 
 | ----------- | --------- | --------------- | 
-| The test aims to confirm that GitHub Search API returns only the repositories of a specific user. | The user “renataberoli” is the user. | The GitHub API returns only the repositories of “renataberoli”. |
+| The test aims to confirm that GitHub Search API returns only the repositories of a specific user. | Use: User "renataberoli"; Qualifier "user". | The GitHub API returns only the repositories of “renataberoli”. |
 **Comments:** N/A
 
