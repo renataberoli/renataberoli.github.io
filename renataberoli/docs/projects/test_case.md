@@ -9,7 +9,6 @@
 | Test Action Category | Test Action Description |
 | --- | --- |
 | `Validate status code:` | 200 OK for GET requests  |
-| `Validate payload:` | Response is a well-formed **JSON object**. |
 | `Validate state: ` | N/A |
 | `Performance sanity:` | N/A |
 
