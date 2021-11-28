@@ -25,8 +25,7 @@ The conclusions were drawn from the data based on:
  
 ### The challenge
 
-The project posed exciting challenges and the opportunity to work with stakeholders from different scientific 
-backgrounds. 
+The project posed exciting challenges, to quote a few: 
 
 - Data density
 - Conclusion characteristics
@@ -37,20 +36,23 @@ backgrounds.
  1. The report can't present a diagnostic; the most crucial piece of information is binary: "Balanced/Unbalanced 
     gut flora."
  2. Without a definitive diagnosis, we provide both quantitative and qualitative data on the Bacteria detected by 
-    the product.
- 3. For some features, we show the patient how he fits in a distribution.
+    the product to help doctors and nutritionists decide their course of action.
+ 3. For some features, we show the patient how he compares with the general population.
  4. We present literature connecting some features to patient symptoms. 
  
 
 ### One-page review
 
+A full report is composed of multiple pages, here I present the "Overview" page with some elements discussed
+in this portfolio article:
+
 ![Gut microbiome report](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/relatorio_probiomeV2.png?raw=true)
 
 ### Conclusion
 
-As usual in the beta version, the first reports of these tests were just a massive amount of text.
-Thus, quality content was difficult to assimilate because the doctor had a short time in the consultation.
-So our challenge was to translate the complex biological data (text) into visual data easier to understand.
+The first version of the report was just a massive amount of text, with proved difficult for doctors and patients
+to assimilate. During the course of this project, we manage to translate the textual biological data into visual 
+components, with make things easier to grasp.
 
 ## Context - COVID-19 report
 
