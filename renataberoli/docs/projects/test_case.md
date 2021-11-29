@@ -82,13 +82,18 @@ Those Test Cases bellow were executed and automatized in my GitHub --> [Unittest
 ### test_repo_search_by_num_of_forks 
 | Description | Test Data | Expected Result | 
 | ----------- | --------- | --------------- | 
-| The test aims to confirm that GitHub Search API returns repositories of a certain number of forks. | Use: Number of forks greater or equal to 10000; sort by “forks”; order ascendant. Qualifiers: “fork”; “sort”; “order”. | The GitHub API returns a list of repositories with number of forks greater or equal to 10000 ordered ascendant. |
+| The test aims to confirm that GitHub Search API returns repositories of a certain number of forks. | Use: Number of forks greater or equal to 1000; sort by “forks”; order ascendant. Qualifiers: “fork”; “sort”; “order”. | The GitHub API returns a list of repositories with number of forks greater or equal to 1000 ordered ascendant. |
 
 !!! Bug "Bug found"
 
-    I found an ordination issue repository's response when the number of cores is lower (like in the >=1000 scenario). 
-    To see more about this problem, consider visiting the 
-    [test code in my Github repository](https://github.com/renataberoli/Unittest_Python). 
+    I found an ordination issue repository's response when the number of forks is lower (like in the >=1000 scenario). 
+    I also try with a highter (10000) value and the the response returns a ordered list. 
+
+    "forks: >= 1000" ![Print of the evidence](../img/1000.png)
+    "forks: >= 10000" ![Print of the evidence](../img/10000.png)
+
+    To see the test code, consider 
+    visiting the [my Github repository](https://github.com/renataberoli/Unittest_Python).
 
 ----
 
@@ -183,5 +188,11 @@ Those Test Cases bellow were executed and automatized in my GitHub --> [Unittest
 
 !!! missing "Unable to reproduce"
 
-    The API didn't return an object that helped to confirm this test.
+    The API didn't return an object that helped to confirm this test.test_repo_search_by_founding_file
 
+### test_repo_search_by_founding_file
+| Description | Test Data | Expected Result | 
+| ----------- | --------- | --------------- | 
+| The test aims to confirm that GitHub API returns only repositories that have a founding file (FUNDING.yml ). | Use: Qualifier: has:funding-file | The GitHub API returned a list of repositories that has a file named “FUNDING.yml “. |
+
+----
