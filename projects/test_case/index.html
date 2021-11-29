@@ -423,6 +423,13 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#test_repo_search_by_founding_file" class="md-nav__link">
+    test_repo_search_by_founding_file
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -621,6 +628,13 @@
           <li class="md-nav__item">
   <a href="#test_repo_search_by_ability_to_sponsor" class="md-nav__link">
     test_repo_search_by_ability_to_sponsor
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#test_repo_search_by_founding_file" class="md-nav__link">
+    test_repo_search_by_founding_file
   </a>
   
 </li>
@@ -838,16 +852,19 @@
 <tbody>
 <tr>
 <td>The test aims to confirm that GitHub Search API returns repositories of a certain number of forks.</td>
-<td>Use: Number of forks greater or equal to 10000; sort by “forks”; order ascendant. Qualifiers: “fork”; “sort”; “order”.</td>
-<td>The GitHub API returns a list of repositories with number of forks greater or equal to 10000 ordered ascendant.</td>
+<td>Use: Number of forks greater or equal to 1000; sort by “forks”; order ascendant. Qualifiers: “fork”; “sort”; “order”.</td>
+<td>The GitHub API returns a list of repositories with number of forks greater or equal to 1000 ordered ascendant.</td>
 </tr>
 </tbody>
 </table>
 <div class="admonition bug">
 <p class="admonition-title">Bug found</p>
-<p>I found an ordination issue repository's response when the number of cores is lower (like in the &gt;=1000 scenario). 
-To see more about this problem, consider visiting the 
-<a href="https://github.com/renataberoli/Unittest_Python">test code in my Github repository</a>. </p>
+<p>I found an ordination issue repository's response when the number of forks is lower (like in the &gt;=1000 scenario). 
+I also try with a highter (10000) value and the the response returns a ordered list. </p>
+<p>"forks: &gt;= 1000" <img alt="Print of the evidence" src="../../img/1000.png" />
+"forks: &gt;= 10000" <img alt="Print of the evidence" src="../../img/10000.png" /></p>
+<p>To see the test code, consider 
+visiting the <a href="https://github.com/renataberoli/Unittest_Python">my Github repository</a>.</p>
 </div>
 <hr />
 <h3 id="test_repo_search_by_num_of_stars">test_repo_search_by_num_of_stars</h3>
@@ -1085,8 +1102,26 @@ To see more about this problem, consider visiting the
 </table>
 <div class="admonition missing">
 <p class="admonition-title">Unable to reproduce</p>
-<p>The API didn't return an object that helped to confirm this test.</p>
+<p>The API didn't return an object that helped to confirm this test.test_repo_search_by_founding_file</p>
 </div>
+<h3 id="test_repo_search_by_founding_file">test_repo_search_by_founding_file</h3>
+<table>
+<thead>
+<tr>
+<th>Description</th>
+<th>Test Data</th>
+<th>Expected Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The test aims to confirm that GitHub API returns only repositories that have a founding file (FUNDING.yml ).</td>
+<td>Use: Qualifier: has:funding-file</td>
+<td>The GitHub API returned a list of repositories that has a file named “FUNDING.yml “.</td>
+</tr>
+</tbody>
+</table>
+<hr />
                 
               
               
