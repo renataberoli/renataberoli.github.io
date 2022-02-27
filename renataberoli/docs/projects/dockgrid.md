@@ -12,7 +12,7 @@ In this project, my challenge was to propose improvements to the beta version of
 ## The Process
 I use the fundamentals of Design Thinking to build all new processes or ideas. 
 
-![Design Thinking process](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/Design%20Thinking%20process.png?raw=true)
+![Design Thinking process](https://github.com/renataberoli/renataberoli.github.io/blob/main/renataberoli/docs/img/Design%20Thinking%20process.png?raw=true)
 
 ## Empathise
 
@@ -28,7 +28,7 @@ the users.
 In this step, I take the information I got in the research and define some crucial aspects to move on. Some of 
 these aspects are the Target audience, User's pains, User's goals, and Competitors.
 
-![Audience,Pain and Goal board](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/Audience,%20Pain%20and%20Goal%20board.png?raw=true)
+![Audience,Pain and Goal board](https://github.com/renataberoli/renataberoli.github.io/blob/main/renataberoli/docs/img/Audience,%20Pain%20and%20Goal%20board.png?raw=true)
 
 #### Competitors Analysis
 I identified the companies that have the closest services to analyze your features, how they talk with your target 
@@ -54,17 +54,17 @@ The sketch is a quick way to put ideas on the paper and test with the stakeholde
 #### Solution
 The solution's main goal was to reach simplicity without losing the many features that make the system a robust tool. 
 
-![Login page wireframe](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/first_scream-orange.png?raw=true)
+![Login page wireframe](https://github.com/renataberoli/renataberoli.github.io/blob/main/renataberoli/docs/img/first_scream-orange.png?raw=true)
 
-![Billling page wireframe](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/billing_screamv2.png?raw=true)
+![Billling page wireframe](https://github.com/renataberoli/renataberoli.github.io/blob/main/renataberoli/docs/img/billing_screamv2.png?raw=true)
 
-![Settings page wireframe](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/settings-credentials.png?raw=true)
+![Settings page wireframe](https://github.com/renataberoli/renataberoli.github.io/blob/main/renataberoli/docs/img/settings-user.png?raw=true)
 
-![Settings page wireframe](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/settings-user.png?raw=true)
+![Settings page wireframe](https://github.com/renataberoli/renataberoli.github.io/blob/main/renataberoli/docs/img/settings-credentials.png?raw=true)
 
-![Schedule page wireframe](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/shedule.png?raw=true)
+![Schedule page wireframe](https://github.com/renataberoli/renataberoli.github.io/blob/main/renataberoli/docs/img/shedule.png?raw=true)
 
-![New schedule page wireframe](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/shedule-_new_schedule.png?raw=true)
+![New schedule page wireframe](https://github.com/renataberoli/renataberoli.github.io/blob/main/renataberoli/docs/img/shedule-_new_schedule.png?raw=true)
 
 #### Design System
 The beta version was built only using the Bootstrap default components and colors. In this new version, the 

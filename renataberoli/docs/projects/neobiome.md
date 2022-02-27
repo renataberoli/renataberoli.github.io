@@ -7,13 +7,13 @@ improvement, food safety, and good practices for microbiological control.
 ## The Solution
 I worked in the dashboard of this system
 
-![Neobiome dashboard](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/neobiome%20dashboard.png?raw=true)
+![Neobiome dashboard](https://github.com/renataberoli/renataberoli.github.io/blob/main/renataberoli/docs/img/neobiome%20dashboard.png?raw=true)
 
 and the redesign of some components and graphs to improve the user's experience 
 
-![Neobiome microorganism profile](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/neobiome%20mic.profile.png?raw=true)
+![Neobiome microorganism profile](https://github.com/renataberoli/renataberoli.github.io/blob/main/renataberoli/docs/img/neobiome%20mic.profile-open.png?raw=true)
 
-![Neobiome microorganism profile- filter](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/neobiome%20mic.profile-open.png?raw=true)
+![Neobiome microorganism profile- filter](https://github.com/renataberoli/renataberoli.github.io/blob/main/renataberoli/docs/img/neobiome%20mic.profile.png?raw=true)
 
 
 {: .box-note}

@@ -43,7 +43,7 @@ The project posed exciting challenges, to quote a few:
 A full report is composed of multiple pages, here I present the "Overview" page with some elements discussed
 in this portfolio article:
 
-![Gut microbiome report](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/relatorio_probiomeV2.png?raw=true)
+![Gut microbiome report](https://github.com/renataberoli/renataberoli.github.io/blob/main/renataberoli/docs/img/relatorio_probiomeV2.png?raw=true)
 
 ## Conclusion
 
