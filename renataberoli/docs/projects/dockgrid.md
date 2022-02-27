@@ -46,7 +46,7 @@ audience and what I could do better.
 #### Sketch
 The sketch is a quick way to put ideas on the paper and test with the stakeholders. 
 
-![Sketch pages image](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/Sketch%20pages%20images.png?raw=true)
+![Sketch pages image](https://github.com/renataberoli/renataberoli.github.io/blob/main/renataberoli/docs/img/Sketch%20pages%20images.png?raw=true)
 
 
 ## Prototype
