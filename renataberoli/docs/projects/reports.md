@@ -48,5 +48,5 @@ in this portfolio article:
 ## Conclusion
 
 The first version of the report was just a massive amount of text, proving difficult for doctors and patients to 
-assimilate. During the course of the project, we manage to translate the textual biological data into visual 
-components, with made things easier to grasp.
+assimilate. During the course of the project, we managed to translate the textual biological data into visual 
+components, with made the data easier to understand.

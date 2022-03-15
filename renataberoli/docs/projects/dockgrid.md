@@ -8,21 +8,19 @@ and bioinformaticians to run their pipelines from their machines without a lot o
 ## Objective
 In this project, my challenge was to propose improvements to the beta version of the service.
 
-
 ## The Process
-I use the fundamentals of Design Thinking to build all new processes or ideas. 
+I used the fundamentals of Design Thinking to build a novel process and idea.
 
 ![Design Thinking process](https://github.com/renataberoli/renataberoli.github.io/blob/main/renataberoli/docs/img/Design%20Thinking%20process.png?raw=true)
 
 ## Empathise
 
 #### Research
-I usually began the research with desk research to understand the User. While doing this desk research, 
-I make a CSD (Certainties, Suppositions, and Doubts) Matrix. It's a technique that you can use to define the
-scope of some new challenge, and I usually use it before interviews to clearly understand the minimum I need 
-to know about the User. The matrix has three columns: 1) what is already known, 2) hypotheses raised, and 
-3) what is still unknown and needs to be investigated. Then, being the CSD matrix ready, I start to listen to 
-the users.
+I initially began the research with desk research in order to understand the User. While doing this desk research, I 
+made a CSD (Certainties, Suppositions, and Doubts) Matrix. It's a technique that you can use to define the scope of any 
+new challenge. I usually use it before interviews to clearly understand the minimum I need to know about the User. 
+The matrix has three columns: 1) what is already known, 2) hypotheses raised, and 3) what is still unknown and needs to 
+be investigated. Then, being the CSD matrix ready, I start to listen to the users.
 
 ## Define
 In this step, I take the information I got in the research and define some crucial aspects to move on. Some of 
@@ -31,8 +29,8 @@ these aspects are the Target audience, User's pains, User's goals, and Competito
 ![Audience,Pain and Goal board](https://github.com/renataberoli/renataberoli.github.io/blob/main/renataberoli/docs/img/Audience,%20Pain%20and%20Goal%20board.png?raw=true)
 
 #### Competitors Analysis
-I identified the companies that have the closest services to analyze your features, how they talk with your target 
-audience and what I could do better.
+I identified the companies that have the closest services to analyze their features, how they talk with a target 
+audience and what I could improve upon.
 
 **List of Competitors**
 - [https://tower.nf/](https://tower.nf/)
@@ -71,12 +69,12 @@ The beta version was built only using the Bootstrap default components and color
 stakeholders wish to give a personality for the brand, so I worked on an initial design system for the project. 
 
 #### Design decisions
-In the initial research, I noticed that the interfaces of this kind of application are crowded. 
-Too many features and data may cause distraction and confusion. So I worked on a clean design with components 
-that could be reused in different parts of the flow. 
+In the initial research, I noticed that the interfaces of this kind of application were crowded. Too many features and 
+data can cause distraction and confusion. I worked on a clean design with components that could be recycled within in 
+different parts of the flow.
 
 I chose to change the orientation of the cards to make better use of the screen space and decrease the vertical 
-scrolling that existed on small screens. This pattern is also good in mobile interfaces because we could use 
+scrolling that existed on small screens. This pattern is also beneficial in mobile interfaces because we could use 
 labels on the side.
 
 ## Test
@@ -85,4 +83,4 @@ The idea was approved with some minor changes.
 
 ## What did I Learn?
 - I improved my experience using  Figma to design the UI templates;
-- To use more the "paper-prototype" to validate initial ideas.
+- To use more "paper-prototype" to validate initial ideas.

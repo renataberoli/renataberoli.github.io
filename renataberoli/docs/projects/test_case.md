@@ -28,14 +28,14 @@ Those Test Cases bellow were executed and automatized in my GitHub --> [Unittest
 ### test_repo_search_by_description
 | Description | Test Data | Expected Result | 
 | ----------- | --------- | --------------- | 
-| This test aims to confirm that Github Search API returns the repositories that have in the description the keyword searched. | Use: Keyword "Python". Qualifier "in:description". | The GitHub API returns one or more repositories that have the word “Python” in your description. | 
+| This test aims to confirm that Github Search API returns the repositories that have the searched keyword within the description. | Use: Keyword "Python". Qualifier "in:description". | The GitHub API returns one or more repositories that have the word “Python” in your description. | 
 
 ----
 
 ### test_repo_search_by_readme
 | Description | Test Data | Expected Result | 
 | ----------- | --------- | --------------- | 
-| This test aims to confirm that GitHub Search API returns the repositories that have in the readme the keyword searched. | Use: Keyword "Cadmio". Qualifier "in:readme". | The GitHub API returns one or more repositories with the word “Cadmio” in your readme. |
+| This test aims to confirm that GitHub Search API returns the repositories that have the the searched keyword in the readme. | Use: Keyword "Cadmio". Qualifier "in:readme". | The GitHub API returns one or more repositories with the word “Cadmio” in your readme. |
 
 ----
 
