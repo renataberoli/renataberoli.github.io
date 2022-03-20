@@ -9,6 +9,8 @@ nav:
 
 theme:
   name: material
+  features:
+    - navigation.top
 
 markdown_extensions:
   - admonition
@@ -17,3 +19,14 @@ markdown_extensions:
   - pymdownx.tasklist:
         custom_checkbox: true
   - tables
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/renataberoli
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/renataberoli/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/renataberoli
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/renataberoli/
