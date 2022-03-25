@@ -14,8 +14,8 @@ renataberoli
 <br>
 
 ### About the project
-This project is a Pet-project that I created to learn more about the Django framework. Bug catcher is an issue tracker 
-that that aims to simplify and be of better use for small teams, despite agile methodologies usage.
+Bug catcher is a pet-project loosely inspired by GitHub Issues and designed with the primary goal of improving my skills in the
+Django framework.
 
 #### Sketch
 
