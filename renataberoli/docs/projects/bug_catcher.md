@@ -88,10 +88,3 @@ mobile devices.
     |The test aims to check if the issue's creation is working as expected.|Use: title - “Test issue if issue is created”; project - “Acme”; status - “open”; assignee - “renataberoli”.|The system will create a new issue and redirect the user to the detail view.|
 
 <br>
-
-## Conclusion
-In this project, I learned:
-- Django framework
-- Bootstrap 5.0
-- Testing in Django framework
-- How to create good documentation for the project
